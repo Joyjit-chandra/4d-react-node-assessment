@@ -1,6 +1,5 @@
 ## TITLE: Accessibility Implementation  
 
-**Priority:** High  
 **Component:** Frontend  
 
 ### Description  

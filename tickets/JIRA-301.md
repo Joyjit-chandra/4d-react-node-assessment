@@ -1,6 +1,5 @@
 ## TITLE: Document Processing Pipeline  
 
-**Priority:** High  
 **Component:** Backend  
 
 ### Description  

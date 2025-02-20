@@ -1,6 +1,5 @@
 ## TITLE: API Testing with WebDriverIO  
 
-**Priority:** Medium  
 **Component:** QA / Testing  
 
 ### Description  

@@ -1,6 +1,5 @@
 ## TITLE: End-to-End Testing with Playwright  
 
-**Priority:** Medium  
 **Component:** QA / Testing  
 
 ### Description  

@@ -1,6 +1,5 @@
 ## TITLE: Enhanced Search System  
 
-**Priority:** High  
 **Component:** Results Page  
 
 ### Description  
