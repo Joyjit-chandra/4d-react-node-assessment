@@ -10,8 +10,6 @@
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui",
     "report": "playwright show-report reports/html-report",
-    "lint": "eslint . --ext .ts",
-    "format": "prettier --write .",
     "lint-staged": "lint-staged"
   },
   "lint-staged": {
