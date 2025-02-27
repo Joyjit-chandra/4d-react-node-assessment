@@ -143,14 +143,9 @@ npx playwright test --ui
 
 npx playwright test tests/specific.spec.ts
 
-# Run with CI configuration
-
-CI=true npx playwright test
-
 ## Notes
 
 - HTML reporter enabled by default
 - Automatic server management
-- CI-specific configurations
 - Type-safe page fixtures
 - Screenshot and trace artifacts for debugging
