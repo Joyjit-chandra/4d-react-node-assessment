@@ -1,5 +1,5 @@
 import { EmployeeDetailsTableColumns } from '@pages/results.page';
-import { sampleEmployeeData } from '@testData/sample-employee.data';
+import { sampleEmployeeData } from 'test-data/sample-employee.data';
 import { test, expect } from '@utilities/basetest';
 
 test.describe('Document Management Application E2E Tests', () => {

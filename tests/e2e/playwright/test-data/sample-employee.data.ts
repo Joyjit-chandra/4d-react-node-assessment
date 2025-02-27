@@ -1,4 +1,4 @@
-import { EmployeeData } from './employee-details-form.data';
+import { EmployeeData } from '../utilities/shared/interfaces/employee-details-form.data';
 
 export const sampleEmployeeData: EmployeeData = {
   firstName: 'Amit',

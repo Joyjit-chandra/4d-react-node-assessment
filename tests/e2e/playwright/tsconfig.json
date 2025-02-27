@@ -5,7 +5,7 @@
       "@utilities/*": ["utilities/*"],
       "@pages/*": ["pages/*"],
       "@apis/*": ["apis/*"],
-      "@testData/*": ["tests/test-data/*"],
+      "@testData/*": ["test-data/*"],
       "@shared/*": ["utilities/shared/*"],
       "@helpers/*": ["utilities/helpers/*"]
     },

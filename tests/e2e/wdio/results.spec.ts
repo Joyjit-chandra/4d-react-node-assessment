@@ -1,4 +1,4 @@
-import { browser, $ as $wdio, $$ as $$wdio } from '@wdio/globals';
+import { browser, $ as $wdio } from '@wdio/globals';
 import { expect } from '@wdio/globals';
 
 describe('Results Page', () => {
